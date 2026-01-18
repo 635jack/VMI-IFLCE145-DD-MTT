@@ -27,8 +27,8 @@ Le dépôt est organisé autour de trois piliers principaux :
 
 ### 1. Installation
 ```bash
-git clone https://github.com/635jack/VMI-IFLCE145-DD-MTT/tree/main.git
-cd mtt-distillation-clean
+git clone https://github.com/635jack/VMI-IFLCE145-DD-MTT.git
+cd VMI-IFLCE145-DD-MTT
 pip install -r requirements.txt
 ```
 

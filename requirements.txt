@@ -1,0 +1,13 @@
+# liste des trucs a installer pour que les notebooks tournent sans couac :)
+torch
+torchvision
+numpy
+tqdm
+kornia
+huggingface_hub
+matplotlib
+scipy
+wandb
+psutil
+pillow
+scikit-learn

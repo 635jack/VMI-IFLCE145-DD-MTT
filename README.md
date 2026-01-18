@@ -27,7 +27,7 @@ Le dépôt est organisé autour de trois piliers principaux :
 
 ### 1. Installation
 ```bash
-git clone https://github.com/[ton-username]/mtt-distillation-clean.git
+git clone https://github.com/635jack/VMI-IFLCE145-DD-MTT/tree/main.git
 cd mtt-distillation-clean
 pip install -r requirements.txt
 ```
